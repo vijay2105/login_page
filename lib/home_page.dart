@@ -6,7 +6,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     // Updated image URLs
     final List<String> imageUrls = [
-      'https://picsum.photos/'
+      'https://picsum.photos/200'
     ];
 
     return Scaffold(
